@@ -45,9 +45,7 @@ Each week covers a different AWS domain.
 - **Week 16:** Threat Detection & Incident Response  
 
 👉 Each course folder contains:
-- `notes.md` → summary of theory  
-- `quiz.md` → self-assessment  
-- `resources/` → slides, diagrams, extra links  
+- `week-[number]-note.md` → summary of theory  
 
 ---
 
@@ -81,10 +79,6 @@ Hands-on practice to reinforce concepts.
   - Container orchestration with ECS/EKS  
   - Data Lake & Analytics (Athena, Redshift, Glue)  
 
-👉 Each lab contains:
-- `lab-guide.md` → detailed step-by-step instructions with screenshots  
-- `solution/` → reference architecture, sample code, configs  
-
 ---
 
 ## 🎯 Goals
@@ -102,3 +96,53 @@ Hands-on practice to reinforce concepts.
    ```bash
    git clone https://github.com/<your-username>/AWS-FCJ.git
    cd AWS-FCJ
+    ```
+
+2. Start with the **Courses** folder, follow notes and take quizzes.
+
+3. Move on to **Labs** for practical hands-on tasks.
+
+4. Join an **AWS Study Group** to discuss progress and troubleshoot issues.
+
+---
+
+## 🏆 Who Is This For?
+
+* Students beginning their **first cloud journey**.
+* AWS Partners & Associates preparing for **client engagements**.
+* Developers, SysAdmins, and Architects looking to **level up AWS skills**.
+
+---
+
+## 📌 Roadmap
+
+* [ ] Week 1–4 notes and labs
+* [ ] Exercises for Networking, Compute, Storage
+* [ ] Add Certification practice exams
+* [ ] Expand Serverless and Data Analytics labs
+* [ ] Contribute community projects
+
+---
+
+## 🤝 Contributing
+
+This is an open learning repo. Contributions are welcome!
+You can:
+
+* Submit new labs or exercises.
+* Add diagrams and cheatsheets.
+* Improve existing notes.
+
+Fork → Modify → PR 🚀
+
+---
+
+## 📜 License
+
+This repo is shared for **educational purposes** under the [MIT License](LICENSE).
+
+---
+
+## 🌟 Acknowledgements
+
+Special thanks to the **AWS First Cloud Journey Program** and the **AWS Special Force Portal** for providing structured learning paths that inspired this repository.
