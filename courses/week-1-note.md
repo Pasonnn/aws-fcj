@@ -98,7 +98,9 @@ This week focuses on the essential networking components in AWS that form the ba
 [VPC Peering](assets/week1/vpc_peering.png)
 - In real-life, we will have multiple VPC (and multiple account for big corp client).
 - Inside 1 VPC, all the service can connect with others (default route table setting). We will need a Peering Connection VPX-123 to connect 2 VPC together (and also have to connect Route Table in 2 VPC)
+
 [VPC Peering - No Transitive Routing](assets/week1/vpc_peering_no_transitive_routing.png)
+
 [AWS Site-to-Site VPN](assets/week1/aws_site_to_site_vpn.png)
 - In a site to site VPN, we should follow the default config of AWS (create a Virtual Private Gateway VGW-123 and a Customer Gateway). Config the Customer Gateway to connect to Virtual Private Gateway through IPSec (Internet)
 - Site-to-Site VPN support for multi connection 
