@@ -230,5 +230,3 @@ When using ECS or EKS, instead of manage the server hand by hand, you just confi
 You can run EC2 instance on different AZ if want (or need :D)
 ![Powerful Simplicity](assets/week2/powerful_simplicity.png)
 ![Open Flexibility](assets/week2/open_flexibility.png)
-
-# [Week 2 - Databases and Storage Foundation (Special Force Portal)](https://specialforce.awsstudygroup.com/#/learn/week-2:-database-and-storage-foundation/lecture/07739b09-acd6-42d0-8329-613386d0abd3)
